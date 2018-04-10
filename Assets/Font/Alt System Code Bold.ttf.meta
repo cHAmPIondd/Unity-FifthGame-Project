@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1a40855494cd38445a8caae09a2ea599
+timeCreated: 1515867163
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Alt System Code
+  fontNames:
+  - Alt System Code
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
